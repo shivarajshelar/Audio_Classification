@@ -1,0 +1,9 @@
+audio_dl/      
+.gradio/      
+
+# Ignore CSV files
+*.csv/           
+
+# Ignore ZIP files
+*.zip/          
+
