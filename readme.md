@@ -1,3 +1,14 @@
+# Audio Classification Demo
+
+Here is the model UI and example output:
+
+![Audio classification screenshot](pic1/audio_pic.png)
+![Audio classification screenshot](pic1/audio_pic2.png)
+![Audio classification screenshot](pic1/audio_pic3.png)
+
+
+
+
 # 🎵 Audio Classification with Deep Learning  
 
 This project uses **UrbanSound8K** dataset and a **Convolutional Neural Network (CNN)** to classify different types of environmental sounds. It includes preprocessing (resampling, padding, and MFCC feature extraction), model training, and an interactive **Gradio app** for testing predictions.  
